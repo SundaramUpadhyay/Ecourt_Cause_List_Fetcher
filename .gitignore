@@ -1,0 +1,38 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+case_data.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# ChromeDriver
+chromedriver.exe
+chromedriver
+
+# Environment variables
+.env
